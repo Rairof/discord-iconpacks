@@ -8,7 +8,7 @@
 
 1. Install Nexx's Themes+ plugin in Pyoncord (should work for Enmity/Rosiecord)
 ```
-https://vendetta.nexpid.xyz/themes-plus
+https://bunny.nexpid.xyz/themes-plus/
 ```
 2. Enable Themes+ plugin
 3. Go to Themes+ settings, tap on `Configuration`
